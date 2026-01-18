@@ -91,6 +91,8 @@ This dataset enables analysis of restaurant popularity, customer satisfaction, a
 **Power BI**
 ![Zomato Dashboard BI](https://github.com/vickyrathod50022/zomato-data-analysis/blob/main/zomato-dashboard-bi.png?raw=true)
 
+**Tableau**
+![Zomato Dashboard Tableau](https://github.com/vickyrathod50022/zomato-data-analysis/blob/main/zomato-dashboard-tableau.png?raw=true)
 
 
 ## 📈 Key Insights
@@ -171,7 +173,7 @@ By focusing on service adoption, improving restaurant quality, leveraging high-p
 **Name:** Vicky Rathod  
 **Role:** Aspiring Data Analyst  
 **Skills:** Power BI, Excel, SQL, Tableau, Data Analysis  
-**GitHub:** [https://github.com/your-github-username ](https://github.com/vickyrathod50022) 
-**LinkedIn:** [https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/vicky-rathod-7a2750242)  
+**GitHub:** [https://github.com/vickyrathod](https://github.com/vickyrathod50022) <br>
+**LinkedIn:** [https://www.linkedin.com/in/vicky-rathod](https://www.linkedin.com/in/vicky-rathod-7a2750242)  
 
 
