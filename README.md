@@ -61,8 +61,9 @@ This dataset enables analysis of restaurant popularity, customer satisfaction, a
 ---
 
 ## 🛠 Tools & Technology
-- **Power BI** – Data modeling, DAX, dashboards, and visual analysis  
-- **Microsoft Excel** – Data cleaning, preprocessing, and exploratory analysis  
+- **Power BI**
+- **Microsoft Excel**
+- **Microsoft Excel**
 
 ---
 
@@ -70,10 +71,15 @@ This dataset enables analysis of restaurant popularity, customer satisfaction, a
 1. **Data Cleaning**
    - Removed null and inconsistent values
    - Standardized categorical columns (country, city, cuisine)
+   - Converted columns from General to appropriate data types
+   - Standardized date formats by resolving underscore issues
+   - Retrieved and mapped country names from a separate worksheet using country code lookups
 
 2. **Data Transformation**
    - Created calculated fields for counts, percentages, and trends
-   - Grouped data by country, year, city, and ratings
+   - Created a Country–City hierarchy to enable structured geographic analysis.
+   - Used parameters in Tableau to dynamically visualize restaurant counts by country and city.
+   - Built price bucket bins to analyze and display restaurant counts across different price ranges in Tableau.
 
 3. **Visualization**
    - Country-wise and year-wise restaurant distribution
@@ -93,6 +99,9 @@ This dataset enables analysis of restaurant popularity, customer satisfaction, a
 
 **Tableau**
 ![Zomato Dashboard Tableau](https://github.com/vickyrathod50022/zomato-data-analysis/blob/main/zomato-dashboard-tableau.png?raw=true)
+
+**Excel** <br>
+![Zomato Dashboard Excel](https://github.com/vickyrathod50022/zomato-data-analysis/blob/main/zomato-dashboard-excel.png?raw=true)
 
 
 ## 📈 Key Insights
