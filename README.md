@@ -89,7 +89,7 @@ This dataset enables analysis of restaurant popularity, customer satisfaction, a
 
 ## 📷 Dashboard Image
 **Power BI**
-![Zomato Dashboard BI](https://github.com/vickyrathod50022/zomato-data-analysis/blob/main/Screenshot%202026-01-18%20083130.png?raw=true)
+![Zomato Dashboard BI](https://github.com/vickyrathod50022/zomato-data-analysis/blob/main/zomato-dashboard-bi.png?raw=true)
 
 
 
